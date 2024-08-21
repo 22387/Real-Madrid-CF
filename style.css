@@ -1,3 +1,19 @@
+* {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;  
+}
+
 .hero-image{
-    background-image:;
+    background-image:url("./images/kamp-nou-camp-nou-ispaniya.jpg");
+    height: 392px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-text{
+    color:beige;
+    position: absolute;
+    text-align: center;
+    top: 280px;
+    width: 100%;
 }
